@@ -32,4 +32,6 @@ pip install -r requirements.txt
 pc run
 ```
 
+## Example app picture
+
 ![Demo Pic](demo.png?raw=true)
