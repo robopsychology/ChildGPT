@@ -1,2 +1,4 @@
 venv
 api_keys.py
+.web
+pynecone.db
